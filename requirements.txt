@@ -1,0 +1,5 @@
+requirements:
+
+streamlit
+streamlit-option_menu
+pickle
